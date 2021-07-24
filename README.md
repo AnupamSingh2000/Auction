@@ -12,3 +12,8 @@ CLEAR AND DISTINCT SECTIONS TO BE ASSIGNED WITH PROPER STORAGE AND CALCULATION O
 
 //Language Used
 JAVA
+
+//Instruction
+In order to run this, you need to download the text files and the swing file. The Java file proj.java is to be run. 
+The pdf attached is a small ppt which I made.
+Readme describes the project.
